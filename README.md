@@ -32,13 +32,8 @@ Students will explore core concepts such as neural network architectures, transf
 
 ## Textbooks and References
 
-1. *Build a Large Language Model from Scratch* – Sebastian Raschka  
-   [Amazon Link](https://www.amazon.in/Build-Large-Language-Model-Scratch/dp/1633437167)
-2. *Hands-on Large Language Models* – Jay Alammar & Maarten Grootendorst  
-   [Amazon Link](https://www.amazon.in/Hands-Large-Language-Models-Understanding/dp/1098150961)
-3. *Building LLMs for Production* – Bouchard and Peters  
-   [Amazon Link](https://www.amazon.in/Building-LLMs-Production-Reliability-Fine-Tuning/dp/9355427832)
-4. *AI Engineering* – Chip Huyen  
-   [Amazon Link](https://www.amazon.in/AI-Engineering-Building-Applications-Foundation/dp/1098166302)
-5. *Generative AI System Design Interview* – Aminian & Sheng  
-   [Amazon Link](https://www.amazon.in/Generative-System-Design-Interview-Colour/dp/9355424965)
+1. *Build a Large Language Model from Scratch* – Sebastian Raschka ([Book Link](https://www.amazon.in/Build-Large-Language-Model-Scratch/dp/1633437167))
+2. *Hands-on Large Language Models* – Jay Alammar & Maarten Grootendorst ([Book Link](https://www.amazon.in/Hands-Large-Language-Models-Understanding/dp/1098150961))
+3. *Building LLMs for Production* – Bouchard and Peters ([Book Link](https://www.amazon.in/Building-LLMs-Production-Reliability-Fine-Tuning/dp/9355427832))
+4. *AI Engineering* – Chip Huyen ([Book Link](https://www.amazon.in/AI-Engineering-Building-Applications-Foundation/dp/1098166302))
+5. *Generative AI System Design Interview* – Aminian & Sheng ([Book Link](https://www.amazon.in/Generative-System-Design-Interview-Colour/dp/9355424965))

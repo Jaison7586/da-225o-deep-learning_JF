@@ -30,16 +30,6 @@ Students will explore core concepts such as neural network architectures, transf
 9. LLMOps and Agent Protocols
 10. Classical Architectures and Image Generation (Non-evaluated topics)
 
-## Evaluation Components
-
-- **Midterm Exam (June 5, 2025):** 40% – MCQ format, 1 hour
-- **Final Exam (June 30, 2025):** 40% – MCQ format, 1 hour
-- **Course Project:** 20% – Implementation-based, deadlines shared via MS Teams
-
-## Total Instruction Time
-
-- **Total Hours:** 46 hours (approx.)
-
 ## Textbooks and References
 
 1. *Build a Large Language Model from Scratch* – Sebastian Raschka  
